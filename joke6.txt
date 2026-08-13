@@ -1,2 +1,0 @@
-Why do developers love winter?
-Because bugs freeze in production.
